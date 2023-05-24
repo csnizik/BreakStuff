@@ -104,7 +104,7 @@ $settings['cache']['bins']['dynamic_page_cache'] = 'cache.backend.null';
  *
  * Drupal ignores test modules and themes by default for performance reasons.
  * During development it can be useful to install test extensions for debugging
- * purposes.
+ * purposes
  */
 # $settings['extension_discovery_scan_tests'] = TRUE;
 
